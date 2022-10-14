@@ -1,6 +1,6 @@
 <h3 align="center"> Hello 👋 I’m Clara Vieira! </h3>
 <h4 align="center"> - I'm a systems development analysis student 📚 </h4>
-<h4 align="center"> - Studying backend in C# 💻 </h4>
+<h4 align="center"> - Studying backend with C# and frontend with JS, HTML, CSS and Angular 💻 </h4>
 
 ##
 
@@ -16,6 +16,8 @@
   <img align="center" alt="Clara-Dot-Net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Clara-MicrosoftSQLServer" height="30" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-sql-server-logo-png-transparent.png">
   <img align="center" alt="Clara-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Clara-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Clara-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Clara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Clara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
