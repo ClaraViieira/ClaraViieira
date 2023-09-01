@@ -1,6 +1,6 @@
 <h3 align="center"> Hello 👋 I’m Clara Vieira! </h3>
 <h4 align="center"> - I'm a systems development analysis student 📚 </h4>
-<h4 align="center"> - Studying backend with C# and frontend with JS, HTML, CSS and Angular 💻 </h4>
+<h4 align="center"> - Studying backend with C#/.NET and Kotlin, cloud with AWS and frontend with HTML and CSS 💻 </h4>
 
 ##
 
@@ -17,10 +17,10 @@
   <img align="center" alt="Clara-DotNetCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Clara-Dot-Net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Clara-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Clara-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Clara-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Clara-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Clara-Argo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg">
+  <img align="center" alt="Clara-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">    
 </div>
 
 ##
